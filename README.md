@@ -1,2 +1,2 @@
-# rocketseat-social-tree-basic
-Projeto realizado seguindo as instruções do desafio Social Tree da Rocketseat
+# Desafio Rocketseat social tree
+página com uma lista de links (menu) que pode ser usada em perfis de redes sociais ou como uma pagina extra em portifolios, por exemplo, para direcionar o usuário para o local escolhido. Foi utilizado apenas HTML e CSS.
